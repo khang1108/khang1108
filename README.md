@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/khang1108/khang1108/refs/heads/main/header_img.jpg">
 
-<h2 align="center"><b>❂ I'm Nguyen Phuc Khang</b></h2>
+<h2 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=9CAFAA&center=true&vCenter=true&width=435&lines=%E2%9D%82+I'm+Nguyen+Phuc+Khang" alt="Typing SVG" /></a>
+</h2>
+
 <p>
   <b>
   🔥I'm currently pursuing a Bachelor's degree in Computer Science, actively focusing on improving my AI/ML/DL knowledge, Competitive Programming skills, and writing research papers in the field of AI. I'm interested in AI models and want to explore and fine-tune various models for a specific purpose. </b>
@@ -26,13 +29,37 @@
 
 <h3>💫 About Me</h3>
 
-<img align="right" src="https://camo.githubusercontent.com/1cbc7fa96e8d431b5e2b4213929bb03aaf2330693a9655e8907c5ca7ef02c82c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578656a46744e484270597a526e64327734597a46345a47566d646d6c3461336c7359546c7659584a784f584d314e6d313661445a7463435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6247677363356d576f727966674b427831752f67697068792e676966" width="320" alt="coding gif">
+<img align="right" src="https://camo.githubusercontent.com/1cbc7fa96e8d431b5e2b4213929bb03aaf2330693a9655e8907c5ca7ef02c82c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578656a46744e484270597a526e64327734597a46345a47566d646d6c3461336c7359546c7659584a784f584d314e6d313661445a7463435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6247677363356d576f727966674b427831752f67697068792e676966" width="250" alt="coding gif">
 
-<p>📌 I'm an alumnus of Tam Phu High School.</p> 
-<h5>🛠️ Passionate about publishing AI research and diving deeper into LLMs and NLP models, with a strong interest in ICPC and competitive programming.</h5>
-<h5>🐍 Comfortable with Python, C++. </h5>
-<h5>🤖 Interests: AI/ML, Data Science, Competitive Programming. </h5>
+📌 <b> I'm an alumnus of Tam Phu High School.</b> <br>
+🛠️ <b> Passionate about publishing AI research and diving deeper into LLMs and NLP models, with a strong interest in ICPC and competitive programming.</b> <br>
+🐍 <b> Comfortable with Python, C++.</b> <br>
+🤖 <b> Interests: AI/ML, Data Science, Competitive Programming.</b> <br>
 
+<h3>🔗 Connect me </h3>
+
+<p>
+  <a href="mailto:nguyenphuc.khang110806@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/phuckhangnee" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/phuckhangne.1108" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/>
+  </a>
+</p>
+
+<h2 align="center">🌱 Coding & Competitive Programming Stats </h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khang1108&show_icons=true&theme=react&hide_border=false&border_radius=8" height="300" />
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/phuckhangne?theme=catppuccinMocha&font=Noto%20Sans%20Inscriptional%20Parthian&ext=heatmap" height="300" />
+</p>
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=justphuckhang&theme=radical" height="300" />
+</p>
 <br clear="both"/>
 
 <h2 align="center"><b>💻 Languages  & tools | Have placed My Hands On</b></h2>
@@ -73,4 +100,5 @@
   <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/></a>
+  <a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex" width="40" height="40"/></a>
 </p>
