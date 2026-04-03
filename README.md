@@ -29,7 +29,8 @@
 
 <h3>💫 About Me</h3>
 
-<img align="right" src="https://camo.githubusercontent.com/1cbc7fa96e8d431b5e2b4213929bb03aaf2330693a9655e8907c5ca7ef02c82c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578656a46744e484270597a526e64327734597a46345a47566d646d6c3461336c7359546c7659584a784f584d314e6d313661445a7463435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6247677363356d576f727966674b427831752f67697068792e676966" width="250" alt="coding gif">
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpsejFycG5ic2duejJ5bHpud2pwbWpnamkzc2kyeGdrYWJtdmc2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" width="250" alt="coding gif">
+
 
 📌 <b> I'm an alumnus of Tam Phu High School.</b> <br>
 🛠️ <b> Passionate about publishing AI research and diving deeper into LLMs and NLP models, with a strong interest in ICPC and competitive programming.</b> <br>
